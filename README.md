@@ -1,1 +1,3 @@
-# Real-time-Emotion-Recognition-System-Based-on-ESP32-CAM
+//ESP32-CAM实时情绪识别
+//fer库,准确率70%
+//原则上说7个,实际上由于fer库训练的问题,只有五个可以,开心,悲伤,中性最好
